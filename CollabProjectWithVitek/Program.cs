@@ -8,8 +8,10 @@ namespace CollabProjectWithVitek
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public int EnterB()
         {
+            int b = Convert.ToInt32(Console.ReadLine());
+            return b;
         }
     }
 }
