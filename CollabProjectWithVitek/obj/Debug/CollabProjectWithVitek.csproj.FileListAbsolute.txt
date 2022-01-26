@@ -1,0 +1,3 @@
+C:\Users\307-02\Desktop\Lv_rep\DualWorkWithVituya\CollabProjectWithVitek\obj\Debug\CollabProjectWithVitek.csproj.AssemblyReference.cache
+C:\Users\307-02\Desktop\Lv_rep\DualWorkWithVituya\CollabProjectWithVitek\obj\Debug\CollabProjectWithVitek.csproj.SuggestedBindingRedirects.cache
+C:\Users\307-02\Desktop\Lv_rep\DualWorkWithVituya\CollabProjectWithVitek\obj\Debug\CollabProjectWithVitek.csproj.CoreCompileInputs.cache
