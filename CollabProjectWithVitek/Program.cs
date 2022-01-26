@@ -8,8 +8,9 @@ namespace CollabProjectWithVitek
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public int Subtraction()
         {
+            return EnterA() - EnterB();
         }
     }
 }
